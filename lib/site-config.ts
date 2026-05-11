@@ -111,7 +111,7 @@ export const siteConfig: SiteConfig = {
     name: "Brinda Soni",
     title: "Practicing Company Secretary · Member, ICSI",
     bio: [
-      "Ms. Brinda Soni is a Practicing Company Secretary and Member of the Institute of Company Secretaries of India, with three years of focused experience in corporate compliance and business consulting.",
+      "Brinda Soni is a Practicing Company Secretary and Member of the Institute of Company Secretaries of India, with seven plus years of focused experience in corporate compliance and business consulting.",
       "She works closely with founders, directors, and finance teams to maintain compliance under the Companies Act, FEMA, SEBI regulations, and intellectual property law — translating regulatory complexity into clear, actionable steps.",
       "Brinda Soni & Associates is built on professional integrity, timely delivery, transparent communication, and long-term client relationships.",
     ],
@@ -214,7 +214,6 @@ export const siteConfig: SiteConfig = {
         "Startup India recognition",
         "IEC (Importer Exporter Code)",
         "PAN / TAN",
-        "Professional Tax",
         "Shops & Establishment",
       ],
     },
@@ -226,9 +225,9 @@ export const siteConfig: SiteConfig = {
         "Protect your brand with practical, end-to-end trademark services.",
       items: [
         "Trademark search & filing",
-        "Objection replies",
+        "Objection/opposition replies",
         "Renewals",
-        "Brand protection advisory",
+        "Attend hearings",
       ],
     },
     {
@@ -241,7 +240,6 @@ export const siteConfig: SiteConfig = {
         "Due diligence",
         "Agreement drafting coordination",
         "Compliance health checks",
-        "Valuation coordination",
         "Virtual secretarial assistance",
       ],
     },
@@ -319,11 +317,6 @@ export const siteConfig: SiteConfig = {
       question: "Do you work with overseas clients or only Indian businesses?",
       answer:
         "Both. We regularly support overseas founders, agencies, and companies setting up or operating in India. Engagements typically include entity incorporation, FEMA / RBI compliance, ongoing ROC filings, and documentation coordination — all handled remotely with clear communication across time zones.",
-    },
-    {
-      question: "How are your fees structured?",
-      answer:
-        "Most engagements are priced per matter (e.g. incorporation, FC-GPR filing) or as an annual compliance retainer for ongoing ROC and secretarial work. We offer a free initial consultation to scope the work and provide a clear, fixed quote before starting.",
     },
   ],
 
